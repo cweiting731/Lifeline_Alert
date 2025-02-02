@@ -1,6 +1,14 @@
 <resources>
     <string name="app_name">Lifeline_Alert</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_home">Map</string>
+    <string name="title_dashboard">Profile</string>
+    <string name="title_notifications">Point</string>
+
+    <string name="profile_image_description">an picture for user image</string>
+    <string name="profile_account_title">Account :</string>
+    <string name="profile_account_">test</string>
+    <string name="profile_email_title">Email :</string>
+    <string name="profile_email_">test</string>
+    <string name="profile_phone_title">Phone :</string>
+    <string name="profile_phone_">test</string>
 </resources>

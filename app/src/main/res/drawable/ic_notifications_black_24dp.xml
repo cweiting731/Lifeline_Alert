@@ -3,7 +3,23 @@
     android:height="24dp"
     android:viewportWidth="24.0"
     android:viewportHeight="24.0">
+    <!-- 禮物盒底部 -->
     <path
-        android:fillColor="#FF000000"
-        android:pathData="M12,22c1.1,0 2,-0.9 2,-2h-4c0,1.1 0.89,2 2,2zM18,16v-5c0,-3.07 -1.64,-5.64 -4.5,-6.32L13.5,4c0,-0.83 -0.67,-1.5 -1.5,-1.5s-1.5,0.67 -1.5,1.5v0.68C7.63,5.36 6,7.92 6,11v5l-2,2v1h16v-1l-2,-2z" />
+        android:fillColor="#000000"
+        android:pathData="M4,8 H20 V20 H4 Z"/>
+
+    <!-- 上方橫向緞帶 -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M2,6 H22 V10 H2 Z"/>
+
+    <!-- 左上斜緞帶 -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M12,6 L8,1 L4,2 Z"/>
+
+    <!-- 右上斜緞帶 -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M12,6 L16,1 L20,2 Z"/>
 </vector>
